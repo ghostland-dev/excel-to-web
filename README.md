@@ -272,3 +272,12 @@ Développé avec :
 - [Vercel](https://vercel.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Fexcel-to-web&env=NEXT_PUBLIC_SUPABASE_URL NEXT_PUBLIC_SUPABASE_ANON_KEY)
+
+Click the button to deploy your own copy on Vercel in one step. It needs a [Supabase](https://supabase.com) project; Vercel asks for these values during setup (see `.env.example`):
+
+- `NEXT_PUBLIC_SUPABASE_URL NEXT_PUBLIC_SUPABASE_ANON_KEY`
+
